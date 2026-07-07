@@ -1,11 +1,11 @@
 <!-- ════════════════════════ HEADER ════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E8503A&height=210&section=header&text=PIYUSH&fontSize=90&fontColor=F4EDE3&animation=fadeIn&fontAlignY=32&desc=BUILDING%20INTELLIGENT%20DIGITAL%20SYSTEMS&descSize=18&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E8503A&height=210&section=header&text=Hi%2C%20I'm%20Piyush&fontSize=60&fontColor=F4EDE3&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer%20%C2%B7%20Agentic%20AI%20%C2%B7%20Blockchain&descSize=20&descAlignY=58" width="100%" />
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&color=E8503A&center=true&vCenter=true&width=700&lines=FULL+STACK+AI+ENGINEER;AGENTIC+AI+DEVELOPER;BLOCKCHAIN+DEVELOPER;I+SHIP+PREMIUM+AI+PRODUCTS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&color=E8503A&center=true&vCenter=true&width=700&lines=Full+Stack+AI+Engineer;Agentic+AI+Developer;Blockchain+Developer;Building+intelligent+digital+systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  I build end-to-end web apps, on-chain applications, and AI agents that <i>actually do things</i> —<br/>
+  I enjoy building end-to-end web applications, on-chain apps, and practical AI agents —<br/>
   taking ideas from database → backend → UI → deploy, and from prompt → agent → production.
 </p>
 
@@ -34,7 +34,7 @@
 - 🧠 Going deep on **AI agents** — RAG, tool-use, LangGraph orchestration, MCP & LLMOps
 - ⛓️ Building **on-chain** — Solidity smart contracts, dApps, ERC-20/721, DeFi tooling
 - 🛠️ **Full-stack** delivery — React, Node, Express, Mongo/Postgres, clean architecture
-- 🎓 Computer Engineering student focused on shipping real products, not just tutorials
+- 🎓 Computer Engineering student who loves turning ideas into working products
 - 📫 Reach me: **YOUR_EMAIL**
 
 <br/>
@@ -148,7 +148,7 @@
 <!-- ════════════════════════ FOOTER ════════════════════════ -->
 <div align="center">
 
-## 🤝 TALK TO ME
+## 🤝 Let's Connect
 
 <i>Have an idea worth shipping? Let's build something amazing.</i>
 <br/><br/>
@@ -158,3 +158,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E8503A&height=140&section=footer" width="100%" />
 </div>
+
