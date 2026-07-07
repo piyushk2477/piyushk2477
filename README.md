@@ -1,7 +1,5 @@
 <!-- ════════════════════════ HEADER ════════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E8503A&height=210&section=header&text=Hi%2C%20I'm%20Piyush&fontSize=60&fontColor=F4EDE3&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer%20%C2%B7%20Agentic%20AI%20%C2%B7%20Blockchain&descSize=20&descAlignY=58" width="100%" />
-</div>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
