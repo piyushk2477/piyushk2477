@@ -18,7 +18,7 @@
 
 <!-- Socials -->
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/piyush-kanakdande-9b8161332/?isSelfProfile=false)"><img src="https://img.shields.io/badge/LinkedIn-E8503A?style=for-the-badge&logo=linkedin&logoColor=F4EDE3" /></a>
+  <a href="https://www.linkedin.com/in/piyush-kanakdande-9b8161332/"><img src="https://img.shields.io/badge/LinkedIn-E8503A?style=for-the-badge&logo=linkedin&logoColor=F4EDE3" /></a>
   <a href="mailto:piyushkanakdande@gmail.com"><img src="https://img.shields.io/badge/Email-0E0D0C?style=for-the-badge&logo=gmail&logoColor=E8503A" /></a>
   <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-E8503A?style=for-the-badge&logo=vercel&logoColor=F4EDE3" /></a>
   <a href="https://github.com/piyushk2477"><img src="https://img.shields.io/badge/Follow-0E0D0C?style=for-the-badge&logo=github&logoColor=F4EDE3" /></a>
