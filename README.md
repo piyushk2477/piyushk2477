@@ -1,79 +1,160 @@
-
-<h1 align="center">Hi, I'm Piyush 👋</h1>
+<!-- ════════════════════════ HEADER ════════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E8503A&height=210&section=header&text=PIYUSH&fontSize=90&fontColor=F4EDE3&animation=fadeIn&fontAlignY=32&desc=BUILDING%20INTELLIGENT%20DIGITAL%20SYSTEMS&descSize=18&descAlignY=55" width="100%" />
+</div>
 
 <p align="center">
-  <b>Full-Stack Developer</b> · <b>Blockchain Developer</b> · <b>Agentic AI Developer</b>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&color=E8503A&center=true&vCenter=true&width=700&lines=FULL+STACK+AI+ENGINEER;AGENTIC+AI+DEVELOPER;BLOCKCHAIN+DEVELOPER;I+SHIP+PREMIUM+AI+PRODUCTS" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  I build end-to-end web apps, on-chain applications, and AI agents that actually do things.
-</p>
-
-<!-- Socials — delete any you don't use -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/<YOUR_LINKEDIN>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:<YOUR_EMAIL>"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://<YOUR_PORTFOLIO_OR_TWITTER>"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-### 🚀 About
-
-- 🎓 Computer Engineering student focused on shipping real projects, not just tutorials.
-- 🧠 Currently going deep on **AI agents** (RAG, tool-use, orchestration) and **blockchain** (Solidity / smart contracts).
-- 🛠️ Comfortable across the stack: I take an idea from database → backend → UI → deploy.
-- 📫 Reach me: **<YOUR_EMAIL>**
-
----
-
-### 🧰 What I work with
-
-**Agentic AI**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=flat&logo=openai&logoColor=white)
-<!-- add: ChromaDB, vector search, whatever you actually used -->
-
-**Blockchain**
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/EVM-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
-<!-- add: Polygon, Hardhat, IPFS, etc. — only what you've actually touched -->
-
-**Full-Stack**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [StayNearCampus](https://github.com/piyushk2477/StayNearCampus) | Hostel & PG listing platform for students | Node · Express · EJS · Tailwind |
-| [BlogyAI](https://github.com/piyushk2477/BlogyAi) | Web app to discover the latest AI tools | EJS · Node |
-| [music-match](https://github.com/piyushk2477/music-match) | Compare songs & artists with friends | JavaScript |
-| **<YOUR_BLOCKCHAIN_PROJECT>** | *push a smart-contract project here* | Solidity · Web3 |
-| **<YOUR_AGENTIC_PROJECT>** | *push an AI-agent project here* | Python · LLM · RAG |
-
-<!--
-  ^ Fill the last two rows with real repos. This table is the single most
-    important part for backing up the "3 skills" claim.
--->
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=piyushk2477&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushk2477&layout=compact&theme=tokyonight&hide_border=true" />
+  <b>🟣 Agentic AI</b> &nbsp;·&nbsp; <b>🔵 Blockchain</b> &nbsp;·&nbsp; <b>🟢 Full Stack</b>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=piyushk2477&theme=tokyonight&hide_border=true" />
+  I build end-to-end web apps, on-chain applications, and AI agents that <i>actually do things</i> —<br/>
+  taking ideas from database → backend → UI → deploy, and from prompt → agent → production.
 </p>
+
+<!-- Socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-E8503A?style=for-the-badge&logo=linkedin&logoColor=F4EDE3" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0E0D0C?style=for-the-badge&logo=gmail&logoColor=E8503A" /></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-E8503A?style=for-the-badge&logo=vercel&logoColor=F4EDE3" /></a>
+  <a href="https://github.com/piyushk2477"><img src="https://img.shields.io/badge/Follow-0E0D0C?style=for-the-badge&logo=github&logoColor=F4EDE3" /></a>
+</p>
+
+<br/>
+
+<!-- ════════════════════════ ABOUT ════════════════════════ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /> About
+
+- 🧠 Going deep on **AI agents** — RAG, tool-use, LangGraph orchestration, MCP & LLMOps
+- ⛓️ Building **on-chain** — Solidity smart contracts, dApps, ERC-20/721, DeFi tooling
+- 🛠️ **Full-stack** delivery — React, Node, Express, Mongo/Postgres, clean architecture
+- 🎓 Computer Engineering student focused on shipping real products, not just tutorials
+- 📫 Reach me: **YOUR_EMAIL**
+
+<br/>
+
+<!-- ════════════════════════ TECH STACK ════════════════════════ -->
+## 🧰 Tech Stack
+
+<div align="center">
+
+### 🟣 Agentic AI
+<img src="https://skillicons.dev/icons?i=py,fastapi,tensorflow,pytorch,sklearn,anaconda,docker&perline=9" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=F4EDE3" />
+<img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=flat-square&logo=langgraph&logoColor=F4EDE3" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=F4EDE3" />
+<img src="https://img.shields.io/badge/Claude-E8503A?style=flat-square&logo=claude&logoColor=F4EDE3" />
+<img src="https://img.shields.io/badge/Gemini-8B5CF6?style=flat-square&logo=googlegemini&logoColor=F4EDE3" />
+<img src="https://img.shields.io/badge/CrewAI-0E0D0C?style=flat-square&logo=crewai&logoColor=F4EDE3" />
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-0E0D0C?style=flat-square" />
+<img src="https://img.shields.io/badge/Vector_DB-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMOps-0E0D0C?style=flat-square" />
+
+### 🔵 Blockchain
+<img src="https://skillicons.dev/icons?i=solidity,ipfs&perline=9" />
+<br/>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=F4EDE3" />
+<img src="https://img.shields.io/badge/Polygon-3B82F6?style=flat-square&logo=polygon&logoColor=F4EDE3" />
+<img src="https://img.shields.io/badge/Hardhat-0E0D0C?style=flat-square&logo=hardhat&logoColor=FFF100" />
+<img src="https://img.shields.io/badge/Foundry-3B82F6?style=flat-square" />
+<img src="https://img.shields.io/badge/Ethers.js-3B82F6?style=flat-square&logo=ethers&logoColor=F4EDE3" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=F4EDE3" />
+<img src="https://img.shields.io/badge/MetaMask-0E0D0C?style=flat-square&logo=metamask&logoColor=F5841F" />
+<img src="https://img.shields.io/badge/ERC20_·_ERC721-3B82F6?style=flat-square" />
+<img src="https://img.shields.io/badge/DeFi-0E0D0C?style=flat-square" />
+
+### 🟢 Full Stack
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,dart&perline=9" />
+<br/>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=9" />
+<img src="https://img.shields.io/badge/GSAP-22C55E?style=flat-square&logo=greensock&logoColor=0E0D0C" height="28" />
+<br/>
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,mongodb,mysql,postgres,firebase,supabase&perline=10" />
+<br/>
+**App Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,react&perline=9" />
+
+### 🛠️ Dev Tools
+<img src="https://skillicons.dev/icons?i=git,github,npm,postman,vscode,arduino,figma,docker&perline=10" />
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════ FEATURED PROJECTS ════════════════════════ -->
+## 📌 Featured Projects — Three Worlds
+
+| World | Project | What it does | Stack |
+|:--:|---|---|---|
+| 🟣 | **YOUR_AGENTIC_PROJECT** | *AI research / task agent — push your best agent repo here* | Python · LangGraph · RAG |
+| 🟣 | **YOUR_AI_PROJECT_2** | *Medical / Legal AI assistant with guardrails* | FastAPI · Vector DB · LLM |
+| 🔵 | **YOUR_BLOCKCHAIN_PROJECT** | *NFT marketplace / Voting DApp / Token launchpad* | Solidity · Hardhat · Ethers.js |
+| 🟢 | [StayNearCampus](https://github.com/piyushk2477/StayNearCampus) | Hostel & PG listing platform for students | Node · Express · EJS · Tailwind |
+| 🟢 | [BlogyAI](https://github.com/piyushk2477/BlogyAi) | Web app to discover the latest AI tools | EJS · Node · MongoDB |
+| 🟢 | [music-match](https://github.com/piyushk2477/music-match) | Compare songs & artists with friends | JavaScript |
+
+<br/>
+
+<!-- ════════════════════════ 3D CONTRIBUTIONS ════════════════════════ -->
+## 🏙️ Contribution Skyline
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+</div>
+
+<br/>
+
+<!-- ════════════════════════ STATS ════════════════════════ -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyushk2477&show_icons=true&hide_border=true&bg_color=0E0D0C&title_color=E8503A&text_color=F4EDE3&icon_color=E8503A&ring_color=E8503A" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushk2477&layout=compact&hide_border=true&bg_color=0E0D0C&title_color=E8503A&text_color=F4EDE3" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=piyushk2477&hide_border=true&background=0E0D0C&ring=E8503A&fire=E8503A&currStreakLabel=E8503A&currStreakNum=F4EDE3&sideNums=F4EDE3&sideLabels=F4EDE3&dates=8A8578" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushk2477&hide_border=true&bg_color=0E0D0C&color=F4EDE3&line=E8503A&point=F4EDE3&area=true&area_color=E8503A" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=piyushk2477&theme=darkhub&no-frame=true&column=7&margin-w=8" width="100%" />
+</div>
+
+<br/>
+
+<!-- ════════════════════════ FOOTER ════════════════════════ -->
+<div align="center">
+
+## 🤝 TALK TO ME
+
+<i>Have an idea worth shipping? Let's build something amazing.</i>
+<br/><br/>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-E8503A?style=for-the-badge&logoColor=F4EDE3" height="40"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=piyushk2477&style=flat-square&color=E8503A&label=PROFILE+VIEWS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8503A&height=140&section=footer" width="100%" />
+</div>
