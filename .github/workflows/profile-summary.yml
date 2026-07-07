@@ -1,0 +1,29 @@
+# Generates the stat cards shown in README.md as real SVG files in this repo
+# (profile-summary-card-output/). Because the images live in the repo, they
+# ALWAYS render — no external rate limits — and refresh on the schedule below.
+name: generate profile summary cards
+
+on:
+  schedule:
+    - cron: "30 18 * * *" # daily ~midnight IST
+  workflow_dispatch: # allow manual "Run workflow" for the first generation
+  push:
+    branches: [main] # regenerate right away when the profile repo changes
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 5
