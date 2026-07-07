@@ -122,25 +122,33 @@
 <!-- ════════════════════════ STATS ════════════════════════ -->
 ## 📊 GitHub Stats
 
+<!--
+  These cards are SVG files generated INSIDE this repo by the
+  profile-summary-cards GitHub Action (.github/workflows/profile-summary.yml).
+  They always render (no external rate limits) and auto-refresh every day.
+-->
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyushk2477&show_icons=true&hide_border=true&bg_color=0E0D0C&title_color=E8503A&text_color=F4EDE3&icon_color=E8503A&ring_color=E8503A" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushk2477&layout=compact&hide_border=true&bg_color=0E0D0C&title_color=E8503A&text_color=F4EDE3" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile details" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=piyushk2477&hide_border=true&background=0E0D0C&ring=E8503A&fire=E8503A&currStreakLabel=E8503A&currStreakNum=F4EDE3&sideNums=F4EDE3&sideLabels=F4EDE3&dates=8A8578" />
+  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+  <img height="170" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repo" />
+</div>
+
+<div align="center">
+  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit" />
+  <img height="170" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Commit time distribution" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=piyushk2477&hide_border=true&background=0E0D0C&ring=E8503A&fire=E8503A&currStreakLabel=E8503A&currStreakNum=F4EDE3&sideNums=F4EDE3&sideLabels=F4EDE3&dates=8A8578" alt="Contribution streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushk2477&hide_border=true&bg_color=0E0D0C&color=F4EDE3&line=E8503A&point=F4EDE3&area=true&area_color=E8503A" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyushk2477&theme=darkhub&no-frame=true&column=7&margin-w=8" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=piyushk2477&theme=darkhub&no-frame=true&column=7&margin-w=8" width="100%" alt="GitHub trophies" />
 </div>
 
 <br/>
